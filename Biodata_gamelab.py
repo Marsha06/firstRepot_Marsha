@@ -6,7 +6,7 @@ nama = "Ni Kadek Marsha Listyani"
 hobi = "seorang kpopers"
 alamat = "Subamia Jln Sekawan Rajawali No10A"
 Kota = "Tabanan"
-Propinsi = "Bali"
+kabupaten = "Bali"
 
 print("Nama Lengkap  :",nama)
 
