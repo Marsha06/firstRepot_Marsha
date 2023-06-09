@@ -11,6 +11,7 @@ kabupaten = "Bali"
 print("Nama Lengkap  :",nama)
 
 
+
 print("Hobi          :", hobi)
 
 print ("Selamat Datang di",nama )
